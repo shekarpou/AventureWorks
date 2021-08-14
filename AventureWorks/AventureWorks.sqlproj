@@ -127,7 +127,6 @@
   </ItemGroup>
   <ItemGroup>
     <Build Include="dbo\Tables\AdventureWorksDWBuildVersion.sql" />
-    <Build Include="dbo\Tables\DatabaseLog.sql" />
     <Build Include="dbo\Tables\DimAccount.sql" />
     <Build Include="dbo\Tables\DimCurrency.sql" />
     <Build Include="dbo\Tables\DimCustomer.sql" />
